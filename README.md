@@ -26,4 +26,4 @@ Modifications: Cross-validation in classifier and data cleaning
 
 Week 3: on going
 
-Link to the video: on going
+📹 Link to the video: on going
