@@ -1,5 +1,5 @@
 ## DataMiningProject
-#Team members: Agon Husejni, Alberto Molinaro, Mila Saqipi
+Team members: Agon Husejni, Alberto Molinaro, Mila Saqipi
 
 🕵️ Project description
 Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learning model that can predict which tweets are about a real disaster and which are not. The project topic is based around a Kaggle competition. 
@@ -9,6 +9,7 @@ In the data file, you can find the training data which we use for training our m
 
 💻Our results 
 Week 1: First submission without any data cleaning: 0.79
+
 Week 2: Several submissions: best one: 0.817, 
         Modifications: Cross-validation in classifier
 
