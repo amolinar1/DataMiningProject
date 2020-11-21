@@ -15,7 +15,7 @@ Week 1: First submission without any data cleaning: accuracy of the model = 0.79
 
 Week 2: Several submissions, best one: accuracy of the model = 0.817
 
-Modifications: Cross-validation in classifier
+Modifications: Cross-validation in classifier and data cleaning
 
 Week 3: on going
 
