@@ -6,7 +6,7 @@ Team members: Agon Husejni, Alberto Molinaro, Mila Saqipi
 
 🕵️ Project description
 
-Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learning model that can predict which tweets are about a real disaster and which are not. The project topic is based around a Kaggle competition. 
+Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learning model that can predict which tweets are about a real disaster and which are not. The project topic is based around a Kaggle competition. Have you ever wondered if the news were true or not? It is what we are trying to do with our prediction model. Given a set of tweets, we are trying to predict if the messages in the tweets are true or not. We will try to build a model with the best possible accuracy with the data provided.
 
 🗄 Data
 
