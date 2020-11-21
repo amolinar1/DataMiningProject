@@ -17,4 +17,6 @@ Week 2: Several submissions, best one: accuracy of the model = 0.817,
 
 Modifications: Cross-validation in classifier
 
+Week 3: on coming
+
 Link to the video: on coming
