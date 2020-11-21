@@ -16,7 +16,7 @@ In the data file, you can find the training data which we use for training our m
 
 Week 1: First submission without any data cleaning: accuracy of the model = 0.79
 
-Week 2: Several submissions, best one: accuracy of the model = 0.817
+Week 2: Several submissions, the best one: accuracy of the model = 0.817
 
 Modifications: Cross-validation in classifier and data cleaning
 
