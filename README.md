@@ -1,6 +1,6 @@
-### Group project: Real or Not? NLP with Disaster Tweets
+# Group project: Real or Not? NLP with Disaster Tweets
 ## Master Information Systems: Data Mining and Machine Learning 2020
-# Group Nestle
+### Group Nestle
 
 Team members: Agon Husejni, Alberto Molinaro, Mila Saqipi
 
