@@ -8,6 +8,7 @@ Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learn
 In the data file, you can find the training data which we use for training our model and the test data which we use to calculate the accuracy of our model. The sample data submission is the format in which we can submit a model.
 
 💻Our results 
+
 Week 1: First submission without any data cleaning: 0.79
 
 Week 2: Several submissions: best one: 0.817, 
