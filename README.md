@@ -19,17 +19,15 @@ In these files, you can find and follow the progress of our work through the wee
 ### 💻 Our results 
 
 #### Week 1:
-First submission without any data cleaning: accuracy of the model = 0.79
+ - First submission without any data cleaning: accuracy of the model = 0.79
 
 #### Week 2:
-Several submissions, the best one: accuracy of the model = 0.817
-
-Modifications: Cross-validation in classifier and data cleaning
+ - Several submissions, the best one: accuracy of the model = 0.817
+ - Modifications: Cross-validation in classifier and data cleaning
 
 #### Week 3:
-Several submissions, the best one: accuracy of the model = 0.819
-
-Modifications: Test of several different classifier and parameters
+ - Several submissions, the best one: accuracy of the model = 0.819
+ - Modifications: Test of several different classifier and parameters
 
 ### 📹 Link to the video
 Soon!
