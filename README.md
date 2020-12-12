@@ -12,6 +12,10 @@ Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learn
 
 In the data file, you can find the training data which we use for training our model and the test data which we use to calculate the accuracy of our model. The sample data submission is the format in which we can submit a model.
 
+### 👩‍💻 Code
+
+In the code file, you can find the code that gives the best accuracy on the test data. We got an accuracy of 0.823. This means that in 82.3% of the cases, our model is right on the predictions.
+
 ### 🖋 Summary of the weeks
 
 In these files, you can find and follow the progress of our work through the weeks in the summary slide.
@@ -30,8 +34,8 @@ In these files, you can find and follow the progress of our work through the wee
  - Modifications: Test of several different classifier and parameters
  
 #### Week 4:
- - Two improvements : accuracy goes from 0.19 to 0.82 and another improvement, best accuracy = 0.823
- - Modifications: advanced data cleaning, search of the best hyperparameters with GridSearch
+ - Two improvements: accuracy goes from 0.19 to 0.82 and another improvement, best accuracy = 0.823
+ - Modifications: advanced data cleaning, searching the best hyperparameters with GridSearch
 
 ### 📹 Link to the video
 Soon!
