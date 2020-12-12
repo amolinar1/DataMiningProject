@@ -18,7 +18,7 @@ In the code file, you can find the code that gave us the best accuracy on the te
 
 ### 🖋 Summary of the weeks
 
-In these files, you can find and follow the progress of our work through the weeks in the summary slide.
+In these files, you can find and follow the progress of our work through the weeks in the summary slides and see what we did to improve our model.
 
 ### 💻 Our results 
 
