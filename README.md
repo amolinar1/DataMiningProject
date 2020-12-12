@@ -14,7 +14,7 @@ In the data file, you can find the training data which we use for training our m
 
 ### 👩‍💻 Code
 
-In the code file, you can find the code that gives the best accuracy on the test data. We got an accuracy of 0.823. This means that in 82.3% of the cases, our model is right on the predictions.
+In the code file, you can find the code that gave us the best accuracy on the test data. We got an accuracy of 0.823. This means that in 82.3% of the cases, our model is right on the predictions. You can try to run our notebook to obtain the csv file with the predictions.
 
 ### 🖋 Summary of the weeks
 
