@@ -28,6 +28,10 @@ In these files, you can find and follow the progress of our work through the wee
 #### Week 3:
  - Several submissions, the best one: accuracy of the model = 0.819
  - Modifications: Test of several different classifier and parameters
+ 
+#### Week 4:
+ - Two improvements : accuracy goes from 0.19 to 0.82 and another improvement, best accuracy = 0.823
+ - Modifications: advanced data cleaning, search of best hyperparameters with GridSearch
 
 ### 📹 Link to the video
 Soon!
