@@ -10,7 +10,7 @@ Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learn
 
 ### 🗄 Data
 
-In the data file, you can find the training data which we use for training our model and the test data which we use to calculate the accuracy of our model. The sample data submission is the format in which we can submit a model.
+In the data file, you can find the training data which we use for training our model and the test data which we use to calculate the accuracy of our model. The sample data submission is the format in which we can submit a model on AIcrowd.
 
 ### 👩‍💻 Code
 
