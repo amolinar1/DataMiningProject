@@ -24,6 +24,7 @@ In these files, you can find and follow the progress of our work through the wee
 
 #### Week 1:
  - First submission without any data cleaning: accuracy of the model = 0.79
+ - This will be our baseline to build the model
 
 #### Week 2:
  - Several submissions, the best one: accuracy of the model = 0.817
