@@ -36,7 +36,7 @@ In these files, you can find and follow the progress of our work through the wee
  
 #### Week 4:
  - Two improvements: accuracy goes from 0.19 to 0.82 and another improvement, best accuracy = 0.823
- - Modifications: advanced data cleaning, searching the best hyperparameters with GridSearch with different classifier
+ - Modifications: advanced data cleaning, searching the best hyperparameters with GridSearch with different classifiers
 
 ### 📹 Link to the video
 Soon!
