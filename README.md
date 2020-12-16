@@ -6,7 +6,7 @@ Team members: Agon Husejni, Alberto Molinaro, Mila Saqipi
 
 ### 🕵️ Project description
 
-Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learning model that can predict which tweets are about a real disaster and which are not. The project topic is based around a Kaggle competition. Have you ever wondered if the news were true or not? It is what we are trying to do with our prediction model on tweet related to disasters. Given a set of tweets, we are trying to predict if the messages in the tweets are true or not. We will try to build a model with the best possible accuracy with the data provided. We submit our predictions on AIcrowd, a crowdsourcing platform for AI. We competed with other teams from the master in order to obtain the best accuracy score. We finished third of the competition with an accuracy score of 0.823.
+Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learning model that can predict which tweets are about a real disaster and which are not. The project topic is based around a Kaggle competition. Have you ever wondered if the news were true or not? It is what we are trying to do with our prediction model on tweet related to disasters. Given a set of tweets, we are trying to predict if the messages in the tweets are true or not. We will try to build a model with the best possible accuracy with the data provided. We submit our predictions on AIcrowd, a crowdsourcing platform for AI. We competed with other teams from the master in order to obtain the best accuracy score. We finished third of the competition with an accuracy score of 0.823. The project lasted 5 weeks.
 
 ### 🖋 Summary of the weeks
 
