@@ -10,7 +10,7 @@ Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learn
 
 ### 🗄 Data
 
-In the data file, you can find the training data which we use for training our model and the test data which we use to calculate the accuracy of our model. The sample data submission is the format in which we can submit a model on AIcrowd. You can also find the clean data that we created and exported from the notebook.
+In the data file, you can find the training data which we use for training our model and the test data which we use to calculate the accuracy of our model. The sample data submission is the format in which we can submit a model on AIcrowd. You can also find the clean data that we created and exported from the notebook. In this file, you can find several different data cleaning that we tried to train the model. The final datasets that we used are train_2 and test_2. We obtained an accuracy score of 0.823 with this data clean.
 
 ### 👩‍💻 Code
 
