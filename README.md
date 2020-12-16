@@ -8,17 +8,17 @@ Team members: Agon Husejni, Alberto Molinaro, Mila Saqipi
 
 Real or Not? NLP with Disaster Tweets: In this project, we build a Machine Learning model that can predict which tweets are about a real disaster and which are not. The project topic is based around a Kaggle competition. Have you ever wondered if the news were true or not? It is what we are trying to do with our prediction model on tweet related to disasters. Given a set of tweets, we are trying to predict if the messages in the tweets are true or not. We will try to build a model with the best possible accuracy with the data provided. We submit our predictions on AIcrowd, a crowdsourcing platform for AI. We competed with other teams from the master in order to obtain the best accuracy score. We finished third of the competition with an accuracy score of 0.823.
 
-### 🗄 Data
+### 🖋 Summary of the weeks
 
-In the data file, you can find the training data which we use for training our model and the test data which we use to calculate the accuracy of our model. The sample data submission is the format in which we can submit a model on AIcrowd. You can also find the clean data that we created and exported from the notebook. In this file, you can find several different data cleaning that we tried to train the model. The final datasets that we used are train_2 and test_2. We obtained an accuracy score of 0.823 with this data clean.
+In these files, you can find and follow the progress of our work through the weeks in the summary slides and see what we did to improve our model.
 
 ### 👩‍💻 Code
 
 In the code file, you can find the code that gave us the best accuracy on the test data. We got an accuracy of 0.823. This means that in 82.3% of the cases, our model is right on the predictions. You can try to run our notebook to obtain the csv file with the predictions. In comparison with the base rate that is 0.57, it is a good model.
 
-### 🖋 Summary of the weeks
+### 🗄 Data
 
-In these files, you can find and follow the progress of our work through the weeks in the summary slides and see what we did to improve our model.
+In the data file, you can find the training data which we use for training our model and the test data which we use to calculate the accuracy of our model. The sample data submission is the format in which we can submit a model on AIcrowd. You can also find the clean data that we created and exported from the notebook. In this file, you can find several different data cleaning that we tried to train the model. The final datasets that we used are train_2 and test_2. We obtained an accuracy score of 0.823 with this data clean.
 
 ### 💻 Our results 
 
