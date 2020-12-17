@@ -39,4 +39,6 @@ In the data file, you can find the training data which we use for training our m
  - Modifications: advanced data cleaning, searching the best hyperparameters with GridSearch with different classifiers
 
 ### 📹 Link to the video
-Soon!
+
+https://youtu.be/bigLh0trg_k
+
